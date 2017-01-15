@@ -1,9 +1,8 @@
-# Master Thesis
-Forecasting Macroeconomic Extremities with Prediction Markets and Quantile Regression
+# Forecasting Macroeconomic Extremities with Prediction Markets and Quantile Regression
 
 ## Abstract
 
-Vitkauskas, A. Forecasting Macroeconomic Extremities with Prediction Markets and Quantile Regression [Manuscript]: Master Thesis: economics. Vilnius, ISM University of Management and Economics, 2013.
+_Vitkauskas, A. Forecasting Macroeconomic Extremities with Prediction Markets and Quantile Regression [Manuscript]: Master Thesis: economics. Vilnius, ISM University of Management and Economics, 2013._
 
 Macroeconomic indicators play an important role in evaluating the state of economy. Macro- economic forecasts provide investors, economists and policy-makers with foresight about the expected future economic developments. Forecasts of macroeconomic indicators currently are usually obtained though the surveys of the field experts that give us point forecasts of the macroeconomic indicator of interest. 
 
@@ -13,4 +12,4 @@ Prediction markets and quantile regression are analyzed in this research as meth
 
 It was found that quantile regression on historical data of expert point forecasts can be a good starting point for well calibrated interval forecasting, but prediction markets can add value to the accuracy of these forecasts, and the combination of prediction markets with quantile regression on the probabilities elicited by these prediction markets gives the best results.
 
-Keywords: macroeconomic forecasting, interval forecasts, prediction markets, quantile regression.
+_Keywords: macroeconomic forecasting, interval forecasts, prediction markets, quantile regression._
